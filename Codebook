@@ -1,0 +1,5 @@
+Codebook describing the variables:
+
+1. Column 1: "SubjectNum": denotes the number of the subject on whom the measurements are done
+2. Column 2: "Activity": denotes the name of the activity during which the measurements are takes (sleeping, standing, etc.)
+3. Columns 3 to 68: describe the 66 different types of measurements (mean and std) taken by the various devices (accelerometers, gyroscopes, etc)
